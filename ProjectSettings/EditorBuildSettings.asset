@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Lvl-1.unity
+    guid: 98800fdeaf78f5940b9abaa746fd1834
+  - enabled: 1
+    path: Assets/Scenes/Introduction.unity
+    guid: fbe1deb165537874692e18dd74a0edd0
+  - enabled: 1
+    path: Assets/Scenes/Mechanic Scene.unity
+    guid: 696015b641a575b49a2478697beb1762
+  - enabled: 1
+    path: Assets/Scenes/Levels/S-Lvl.unity
+    guid: 7f68012ccef80b942ae3d2c1a05d150a
+  - enabled: 1
+    path: Assets/Scenes/LevelScene.unity
+    guid: 635a1cf2ba8a82a4f81d05f41aea42c2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Final_stage.unity
+    guid: 1cdc6697dacb6cd44a54ff31929d002d
+  - enabled: 0
+    path: Assets/Scenes/Levels/I-Lvl 1.unity
+    guid: 97544662079d60942b61934151d61755
+  - enabled: 1
+    path: Assets/Scenes/Levels/S-Lvl2.unity
+    guid: 0100baed2cc03094a90fac8853e92593
+  - enabled: 1
+    path: Assets/Scenes/Levels/I-Lvl.unity
+    guid: 09d87c4a859868f4d961a2916501e04d
+  - enabled: 1
+    path: Assets/Scenes/Levels/L Lvl Mech.unity
+    guid: fca41a891de411c429567c879a6427e2
+  - enabled: 1
+    path: Assets/Scenes/Levels/L-Lvl 1.unity
+    guid: c05b834ebbafc1040b4596d77242102c
+  - enabled: 1
+    path: Assets/Scenes/Levels/L-Lvl 2.unity
+    guid: bcb2e69a9a2a15941a76a638eb90aa76
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 2ad00e4ef1634fa46806c04af28b44f2
+  - enabled: 1
+    path: Assets/Scenes/Levels/O lvl 1.5.unity
+    guid: 1d91d5b0a48e1db45acf31a0f954c753
+  - enabled: 1
+    path: Assets/Scenes/Levels/O Lvl 2.5.unity
+    guid: 63f0cc0a185532b49934b6680eeb2f16
+  - enabled: 1
+    path: Assets/Scenes/Levels/O-Lvl 1.unity
+    guid: 9cf76461bdf1f324ea8e8ebf34e3a53e
+  - enabled: 1
+    path: Assets/Scenes/Levels/O-Lvl 2.unity
+    guid: 4290526c53a4bb546b363ede0b11f109
+  - enabled: 1
+    path: Assets/Scenes/Levels/O-Lvl 3.unity
+    guid: 7f703b0d304179a42843f658f8801376
+  - enabled: 1
+    path: Assets/Scenes/Levels/D-Lvl.unity
+    guid: 078500872379a47429fe05a33fe5f20b
+  - enabled: 1
+    path: Assets/Scenes/Mechanic Scene.unity
+    guid: 696015b641a575b49a2478697beb1762
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: d060c77e811a72441aa80cf2be7b4270
+  m_configObjects: {}
